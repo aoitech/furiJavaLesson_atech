@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c73bbe44-2423-4e9f-a448-6d23f68f5897" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Chap_1_10_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chap_1_10_2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,13 +31,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Chap_1_10_1">
+}</component>
+  <component name="RunManager" selected="Application.Chap_1_10_2">
     <configuration name="Chap1_8_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Chap1_8_1" />
       <module name="furiJavaLesson" />
@@ -47,6 +47,13 @@
     </configuration>
     <configuration name="Chap_1_10_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Chap_1_10_1" />
+      <module name="furiJavaLesson" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Chap_1_10_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chap_1_10_2" />
       <module name="furiJavaLesson" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -68,6 +75,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Chap_1_10_2" />
         <item itemvalue="Application.Chap_1_10_1" />
         <item itemvalue="Application.Chap_1_8_3" />
         <item itemvalue="Application.Chap_1_8_2" />
