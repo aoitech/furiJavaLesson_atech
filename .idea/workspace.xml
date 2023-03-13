@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c73bbe44-2423-4e9f-a448-6d23f68f5897" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Chap2_2_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chap2_2_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chap2_3_1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chap2_2_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chap2_2_3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,14 +39,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Chap2_2_3">
-    <configuration name="Chap1_11_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chap1_11_1" />
-      <module name="furiJavaLesson" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Chap2_3_1">
     <configuration name="Chap1_11_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Chap1_11_2" />
       <module name="furiJavaLesson" />
@@ -75,13 +68,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Chap2_3_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chap2_3_1" />
+      <module name="furiJavaLesson" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Chap2_3_1" />
         <item itemvalue="Application.Chap2_2_3" />
         <item itemvalue="Application.Chap2_2_1" />
         <item itemvalue="Application.Chap1_12_1" />
         <item itemvalue="Application.Chap1_11_2" />
-        <item itemvalue="Application.Chap1_11_1" />
       </list>
     </recent_temporary>
   </component>

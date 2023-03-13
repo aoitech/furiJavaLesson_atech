@@ -6,5 +6,11 @@ public class Chap2_2_3 {
         Scanner  scanner = new Scanner(System.in);
         int age = Integer.parseInt(scanner.nextLine());
         System.out.println( age < 20 );
+        String str = "";
+        if (str.isEmpty()) {
+            System.out.println("空です");
+        } else {
+            System.out.println(str);
+        }
     }
 }
