@@ -5,5 +5,6 @@ public class Chap_1_8_2 {
         System.out.println( sale );
         // テスト2です
         // コンフリクト用
+
     }
 }
